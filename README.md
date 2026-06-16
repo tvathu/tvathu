@@ -58,10 +58,13 @@ I’m Athul, a Software Engineer who builds backend systems with a focus on scal
 
 ## 🧩 Featured Projects
 🔹 **OTT revenue prediction system**  
-👉 (https://github.com/tvathu/OTT-revenue-predictor)
+👉(https://github.com/tvathu/OTT-revenue-predictor)
 
 🔹 **Blearn learning management system** 
 👉(https://github.com/tvathu/B-learn)
+
+🔹 **Memorypal Ai based assistant app for alzheimer paitents** 
+👉(https://github.com/tvathu/memorypal)
 
 
 
