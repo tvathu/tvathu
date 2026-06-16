@@ -8,14 +8,15 @@
 ---
 
 ## 🧠 About Me
-I’m Athul, a Software Engineer who builds backend systems with a focus on scalability, performance, and real-world impact. My core work involves Python, Django, and API design, and I’m currently developing expertise in cloud computing and DevOps to deploy and manage production-grade applications. I’m also exploring AI to bring intelligent capabilities into scalable systems. I approach development with a strong emphasis on problem-solving, system design, and clean architecture.
+I'm Athul, a Software Engineer who builds backend systems with a focus on scalability, performance, and real-world impact. My core work involves Python, Django, and API design, and I'm currently d[...]
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 What I'm Building
 - 🔹 System design and Solutions
 - 🔹 Full-stack Django Applications
 - 🔹 Python Automation Tools
+- 📱 Mobile app development using React Native and Expo
 
 ---
 ## 🛠️ Tech Stack
@@ -33,6 +34,11 @@ I’m Athul, a Software Engineer who builds backend systems with a focus on scal
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo"/>
 </p>
 
 ### 🧠 AI / ML
@@ -75,6 +81,7 @@ I’m Athul, a Software Engineer who builds backend systems with a focus on scal
 - ⚙️ Learning DevOps practices (Docker, CI/CD, automation)
 - 🚀 Improving backend performance & system design
 - 🧠 Bringing AI models into real-world production 
+- 📱 Building cross-platform mobile apps with React Native & Expo
 
 ---
 
